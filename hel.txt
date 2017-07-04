@@ -1,0 +1,10 @@
+ka-X550JX% git init 
+Reinitialized existing Git repository in /home/deepika/foobar/.git/
+deepika-X550JX% ls -al
+total 12
+drwxrwxr-x  3 deepika deepika 4096 Jul  3 20:07 .
+drwxr-xr-x 37 deepika deepika 4096 Jul  3 20:07 ..
+drwxrwxr-x  7 deepika deepika 4096 Jul  3 20:21 .git
+deepika-X550JX% git add helloworld.txt
+fatal: pathspec 'helloworld.txt' did not match any files
+e
